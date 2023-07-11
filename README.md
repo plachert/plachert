@@ -2,7 +2,7 @@
 
 
 
-I am Piotr and I am a deep learning enthusiast and practitioner with corporate and startup experience. I am currently looking for a challenging project, ideally in computer vision. 
+I am Piotr and I am a deep learning engineer with corporate and startup experience. I am currently looking for a challenging project, ideally in computer vision. 
 
 
 
